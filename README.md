@@ -1,4 +1,3 @@
-# PeppinaLou
 
 ## Hello :)
 My name is Peppina, and I am currently studying Biology.
